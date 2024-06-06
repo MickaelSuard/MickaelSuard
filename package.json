@@ -1,0 +1,22 @@
+{
+    "name": "MickaelSuard",
+    "version": "1.0.0",
+    "description": "I represent myself as a penguin 🐧",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MickaelSuard/MickaelSuard.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/MickaelSuard/MickaelSuard/issues"
+    },
+    "homepage": "https://github.com/MickaelSuard/MickaelSuard#readme",
+    "devDependencies": {
+      "eslint": "^7.30.0"
+    }
+  }
