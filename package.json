@@ -1,22 +1,14 @@
 {
-    "name": "MickaelSuard",
+    "name": "update-readme",
     "version": "1.0.0",
-    "description": "I represent myself as a penguin 🐧",
+    "description": "",
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MickaelSuard/MickaelSuard.git"
+    "dependencies": {
+      "fs": "0.0.1-security"
     },
     "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/MickaelSuard/MickaelSuard/issues"
-    },
-    "homepage": "https://github.com/MickaelSuard/MickaelSuard#readme",
-    "devDependencies": {
-      "eslint": "^7.30.0"
-    }
+    "license": "ISC"
   }

@@ -24,14 +24,14 @@ jobs:
           node index.js > README.md
         env:
           CI: true
-      - name: Configure git
-        run: |
-          git config --global user.name 'Mickael Suard'
-          git config --global user.email 'suard.mickael72@gmail.com'
-      - name: Commit changes
+      - name: commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          add: 'README.md'
-          message: ':memo: README.md updated by me'
+          author_name: MickaelSuard
+          author_email: suard.mickael72@gmail.com
+          force: false
+          signoff: false
+          message: ':memo: README.md updated by Gabot'
         env:
+          # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
