@@ -2,7 +2,7 @@ module.exports = `
 
 Hi there 👋,
 
-Welcome to my GitHub profile! Today is <#day_of_the_week>, so let's make it awesome!
+Welcome to my GitHub profile! Today is <#today_date>, so let's make it awesome!
 
 ### About Me
 I am Mickael Suard, a developer passionate about coding and new technologies. 
