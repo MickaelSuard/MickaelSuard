@@ -2,7 +2,7 @@
 
 Hi there 👋,
 
-Welcome to my GitHub profile! Today is Tue Jun 18 2024, so let's make it awesome!
+Welcome to my GitHub profile! Today is Tuesday, so let's make it awesome!
 
 ### About Me
 I am Mickael Suard, a developer passionate about coding and new technologies. 
@@ -27,7 +27,7 @@ Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, 
 
 Added the `Mon 03 Jun 2024` my project
 
-Last update on <#today_date>.
+Last update on Tue Jun 18 2024.
 
 **196 days before 2025 ⏱** days before New Year's.
 
