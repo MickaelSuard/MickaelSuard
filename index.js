@@ -48,15 +48,11 @@ const findIdentifierIndex = (rows, identifier) =>
 
 const updateREADMEFile = (text) => fs.writeFile('./README.md', text);
 
-async function main() {
-  try {
-    const newREADME = generateNewREADME();
-    console.log('Generated README content:\n', newREADME);
-    await updateREADMEFile(newREADME);
-    console.log('README.md updated successfully');
-  } catch (error) {
-    console.error('Error updating README.md:', error);
-  }
+function main() {
+  const newREADME = generateNewREADME();
+  console.log(newREADME);
+  updateREADMEFile(newREADME);
 }
+main();
 
 main();
