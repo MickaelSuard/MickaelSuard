@@ -20,7 +20,7 @@ function generateNewREADME() {
   const identifierToUpdate = {
     day_before_new_years: getDBNWSentence(),
     today_date: getTodayDate(),
-    day_of_the_week : getTodayDate(),
+    day_of_the_week : getDayOfWeek(),
     fun_fact: getFunFactOfTheDay(),
   };
 
