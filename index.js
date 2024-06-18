@@ -20,6 +20,8 @@ function generateNewREADME() {
   const identifierToUpdate = {
     day_before_new_years: getDBNWSentence(),
     today_date: getTodayDate(),
+    day_of_the_week : getTodayDate(),
+    fun_fact: getFunFactOfTheDay(),
   };
 
   Object.entries(identifierToUpdate).forEach(([key, value]) => {
@@ -41,6 +43,27 @@ function getDBNWSentence() {
   const dayUntilNewYear = Math.round(timeUntilNewYear / msInOneDay);
 
   return `**${dayUntilNewYear} days before ${nextYear} ⏱**`;
+}
+
+function getDayOfWeek() {
+  const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+  const dayIndex = today.getDay();
+  return daysOfWeek[dayIndex];
+}
+
+function getFunFactOfTheDay() {
+  const dayOfWeek = getDayOfWeek();
+  const funFacts = {
+    Sunday: "Did you know? Sunday is named after the sun.",
+    Monday: "Fun fact: Monday is considered the most productive day of the week.",
+    Tuesday: "Fun fact: Tuesday is often considered the most disliked day of the week.",
+    Wednesday: "Fun fact: Wednesday is sometimes referred to as 'hump day'.",
+    Thursday: "Fun fact: Thursday is named after Thor, the Norse god of thunder.",
+    Friday: "Fun fact: Friday is associated with relaxation and the end of the workweek in many cultures.",
+    Saturday: "Fun fact: Saturday is named after the Roman god Saturn and is often considered a day for leisure.",
+  };
+
+  return funFacts[dayOfWeek] || "No fun fact available for today!";
 }
 
 const findIdentifierIndex = (rows, identifier) =>
