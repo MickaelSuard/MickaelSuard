@@ -27,9 +27,6 @@ Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, 
 
 Added the \`Mon 03 Jun 2024\` my project
 
-Latest Updates
-Added the project on Mon 03 Jun 2024.
-
 Last update on <#today_date>.
 
 <#day_before_new_years> days before New Year's.
