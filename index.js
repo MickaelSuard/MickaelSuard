@@ -54,5 +54,3 @@ function main() {
   updateREADMEFile(newREADME);
 }
 main();
-
-main();
