@@ -4,17 +4,6 @@ Hi there 👋,
 
 Welcome to my GitHub profile! Today is Tue Jun 18 2024, so let's make it awesome!
 
-### Visitor count
-
-<img src="https://profile-counter.glitch.me/MickaelSuard/count.svg" />
-
-Added the `Mon 03 Jun 2024` my project
-
-Last update on Tue Jun 18 2024
-
-**196 days before 2025 ⏱** days before new years
-
-
 ### About Me
 I am Mickael Suard, a developer passionate about coding and new technologies. 
 I love exploring, learning, and sharing my discoveries. 
@@ -32,10 +21,16 @@ Fun fact: Tuesday is often considered the most disliked day of the week.
 ### Contact Me
 Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, projects, or just about anything!
 
+### Visitor count
+
+<img src="https://profile-counter.glitch.me/MickaelSuard/count.svg" />
+
+Added the `Mon 03 Jun 2024` my project
+
 Latest Updates
 Added the project on Mon 03 Jun 2024.
 
-Last update on <#today_date>.
+Last update on Tue Jun 18 2024.
 
-<#day_before_new_years> days before New Year's.
+**196 days before 2025 ⏱** days before New Year's.
 
