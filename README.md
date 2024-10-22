@@ -25,9 +25,9 @@ Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, 
 
 <img src="https://profile-counter.glitch.me/MickaelSuard/count.svg" />
 
-Added the `Mon 03 Jun 2024` my project
+Added the `Mon 03 Jun 2024`
 
 Last update on Tue Oct 22 2024.
 
-**71 days before 2025 ⏱** days before New Year's.
+**70 days before 2025 ⏱** days before New Year's.
 
