@@ -25,7 +25,7 @@ Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, 
 
 <img src="https://profile-counter.glitch.me/MickaelSuard/count.svg" />
 
-Added the \`Mon 03 Jun 2024\` my project
+Added the \`Mon 03 Jun 2024\`
 
 Last update on <#today_date>.
 
