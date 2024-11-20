@@ -2,7 +2,7 @@
 
 Hi there 👋,
 
-Welcome to my GitHub profile! Today is Tuesday, so let's make it awesome!
+Welcome to my GitHub profile! Today is Wednesday, so let's make it awesome!
 
 ### About Me
 I am Mickael Suard, a developer passionate about coding and new technologies. 
@@ -16,7 +16,7 @@ What Drives Me: Curiosity, solving complex problems, and creating useful solutio
 When I'm not coding, you might find me sipping a strong coffee or playing video games.
 
 ### Fun Facts
-Fun fact: Tuesday is often considered the most disliked day of the week.
+Fun fact: Wednesday is sometimes referred to as 'hump day'.
 
 ### Contact Me
 Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, projects, or just about anything!
@@ -27,7 +27,7 @@ Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, 
 
 Added the `Mon 03 Jun 2024`
 
-Last update on Tue Nov 19 2024.
+Last update on Wed Nov 20 2024.
 
-**43 days before 2025 ⏱** days before New Year's.
+**42 days before 2025 ⏱** days before New Year's.
 
