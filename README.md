@@ -2,7 +2,7 @@
 
 Hi there 👋,
 
-Welcome to my GitHub profile! Today is Wednesday, so let's make it awesome!
+Welcome to my GitHub profile! Today is Thursday, so let's make it awesome!
 
 ### About Me
 I am Mickael Suard, a developer passionate about coding and new technologies. 
@@ -16,7 +16,7 @@ What Drives Me: Curiosity, solving complex problems, and creating useful solutio
 When I'm not coding, you might find me sipping a strong coffee or playing video games.
 
 ### Fun Facts
-Fun fact: Wednesday is sometimes referred to as 'hump day'.
+Fun fact: Thursday is named after Thor, the Norse god of thunder.
 
 ### Contact Me
 Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, projects, or just about anything!
@@ -27,7 +27,7 @@ Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, 
 
 Added the `Mon 03 Jun 2024`
 
-Last update on Wed Feb 05 2025.
+Last update on Thu Feb 06 2025.
 
-**330 days before 2026 ⏱** days before New Year's.
+**329 days before 2026 ⏱** days before New Year's.
 
