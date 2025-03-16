@@ -25,6 +25,10 @@ Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, 
 
 <img src="https://profile-counter.glitch.me/MickaelSuard/count.svg" />
 
+my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MickaelSuard&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 Added the `Mon 03 Jun 2024`
 
 Last update on Sun Mar 16 2025.
