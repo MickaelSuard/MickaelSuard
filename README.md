@@ -1,3 +1,5 @@
+
+
 Hi there 👋,
 
 Welcome to my GitHub profile! Today is Sunday, so let's make it awesome!
@@ -21,11 +23,12 @@ Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, 
 
 ### Visitor count
 
+
 <img src="https://profile-counter.glitch.me/MickaelSuard/count.svg" />
+
 
 Added the `Mon 03 Jun 2024`
 
 Last update on Sun Mar 16 2025.
 
 **290 days before 2026 ⏱** days before New Year's.
-
