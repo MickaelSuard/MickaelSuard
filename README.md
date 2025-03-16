@@ -25,11 +25,6 @@ Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, 
 
 <img src="https://profile-counter.glitch.me/MickaelSuard/count.svg" />
 
-### Github stat
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MickaelSuard&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelSuard&hide=TeX&layout=compact)
-
 Added the `Mon 03 Jun 2024`
 
 Last update on Sun Mar 16 2025.
