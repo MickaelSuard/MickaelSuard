@@ -1,5 +1,3 @@
-
-
 Hi there 👋,
 
 Welcome to my GitHub profile! Today is Sunday, so let's make it awesome!
