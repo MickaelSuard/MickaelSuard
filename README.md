@@ -5,7 +5,7 @@
 
 Hi there 👋,
 
-Welcome to my GitHub profile! Today is Saturday, so let's make it awesome!
+Welcome to my GitHub profile! Today is Sunday, so let's make it awesome!
 
 ### About Me
 I am Mickael Suard, a developer passionate about coding and new technologies. 
@@ -19,7 +19,7 @@ What Drives Me: Curiosity, solving complex problems, and creating useful solutio
 When I'm not coding, you might find me sipping a strong coffee or playing video games.
 
 ### Fun Facts
-Fun fact: Saturday is named after the Roman god Saturn and is often considered a day for leisure.
+Did you know? Sunday is named after the sun.
 
 ### Contact Me
 Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, projects, or just about anything!
@@ -56,9 +56,9 @@ Feel free to reach out to me via LinkedIn. I'm always up for a chat about tech, 
 
 Added the `Mon 03 Jun 2024`
 
-Last update on Sat Jun 21 2025.
+Last update on Sun Jun 22 2025.
 
-**194 days before 2026 ⏱** days before New Year's.
+**193 days before 2026 ⏱** days before New Year's.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
